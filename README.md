@@ -11,3 +11,5 @@ Instruções:
   Jogador 2 =
    - "W" = Mover a barra para cima
    - "S" = Mover a barra para baixo
+
+Na fase 2 a bolinha Preta equivale a 2 pontos enquanto as bolinhas normais equivalem a 1 ponto.
